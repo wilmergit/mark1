@@ -1,4 +1,4 @@
-# Mark 1
+# Project Title
 
 One Paragraph of the project description
 
@@ -91,3 +91,4 @@ details
   - Hat tip to anyone whose code is used
   - Inspiration
   - etc
+>>>>>>> 1b21a5f42fbde0c516ea8471900f3c87010292e4
